@@ -1,0 +1,9 @@
+dependencies:
+  - python=3.8
+  - nbgitpuller
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+      - julia
+  
