@@ -3,6 +3,7 @@ dependencies:
   - python=3.7
   - ipython
   - jupyterlab
+  - nbgitpuller
   - numpy
   - matplotlib
   - pandas
