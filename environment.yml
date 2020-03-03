@@ -9,3 +9,6 @@ dependencies:
   - pandas
   - scikit-learn
   - spacy
+  - pip:
+    - arxiv
+    - git+https://github.com/Miguel-ASM/TeX-counter.git
